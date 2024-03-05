@@ -1,6 +1,6 @@
 # Coding Challenges
 
-This repository indexes the Coding Challenges resolutions. 
+This repository indexes my Coding Challenges resolutions. 
 
 I expect that these challenges help me to understand how to some coding tools were built, and some concepts that I forgot or that I do not have touch. I pretend to add each resolution to this repository using git submodules.
 
